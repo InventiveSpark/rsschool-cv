@@ -98,7 +98,7 @@ var lastDigit = function (str1, str2) {
 - [Web 2.0 Programming with Django](https://open.spbstu.ru/certificate/02WEBPYT-0121-2), [SPbPU](https://english.spbstu.ru/)
 - [Unix/Linux Systems Programming](https://www.hse.ru/openedu/api/7c5f1a6e4e9a2356fbf5ad09699626f7/cert.pdf), [HSE University](https://www.hse.ru/en/)
 - [Digital Production and Project Works](https://open.spbstu.ru/certificate/02DIGPROD-0220-1), [SPbPU](https://english.spbstu.ru/)
-- [Project Management](https://elearning.mephi.ru/certificates/017-00104-LAA.pdf), [National Research Nuclear University MEPhI](https://eng.mephi.ru/)
+- [Project Management](https://inventivespark.github.io/rsschool-cv/img/017-00104-LAA.pdf), [National Research Nuclear University MEPhI](https://eng.mephi.ru/)
 - [Computer-Aided Design (CAD)](https://de.ifmo.ru/certificates/448b18535a0b9e49.pdf), [ITMO University](https://en.itmo.ru/)
 
 ---
