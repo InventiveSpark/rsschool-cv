@@ -81,6 +81,7 @@ var lastDigit = function (str1, str2) {
 ### My projects
 - [Python / Django](https://shooting.pythonanywhere.com/)
 - [HTML5, CSS3, Bootstrap](https://github.com/InventiveSpark/ITMOUniversity-web-developer-Module_7-Diploma-Project)
+
 ---
 
 ### Education
