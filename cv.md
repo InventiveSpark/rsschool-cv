@@ -66,6 +66,18 @@ Now I am actively mastering the profession of a programmer and see my future car
 
 ---
 
+### Code example
+
+[Last digit of a large number](https://www.codewars.com/kata/5511b2f550906349a70004e1), Codewars:
+```js
+var lastDigit = function (str1, str2) {
+    if (str2 === "0") return 1;
+    return (str1[str1.length - 1] ** (str2.slice(str2.length - 2) % 4 || 4)) % 10;
+}
+```
+
+---
+
 ### My projects
 - [Python / Django](https://shooting.pythonanywhere.com/)
 - [HTML5, CSS3, Bootstrap](https://github.com/InventiveSpark/ITMOUniversity-web-developer-Module_7-Diploma-Project)
