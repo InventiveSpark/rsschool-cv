@@ -83,6 +83,34 @@ var lastDigit = function (str1, str2) {
 - [HTML5, CSS3, Bootstrap](https://github.com/InventiveSpark/ITMOUniversity-web-developer-Module_7-Diploma-Project)
 ---
 
+### Education
+- Specialist Degree (MA-equivalent) with distinctions in Telecommunication Engineering, [USATU](https://ugatu.su/en/)
+- Postgraduate Degree with honors in Telecommunication Systems and Computer Networks, [USATU](https://ugatu.su/en/)
+- Professional Retraining in Multimedia and Web Development, [ITMO University](https://en.itmo.ru/)
+
+---
+
+### University Courses
+- [Algorithms and Data Structures](https://de.ifmo.ru/certificates/9352335304dc45bd.pdf), [ITMO University](https://en.itmo.ru/)
+- [Software Engineering Tools and Methods](https://de.ifmo.ru/certificates/a4ab592c29bd4180.pdf), [ITMO University](https://en.itmo.ru/)
+- [Web Development](https://de.ifmo.ru/certificates/96054e1cb8e54853.pdf), [ITMO University](https://en.itmo.ru/)
+- [Web 2.0 Programming with Django](https://open.spbstu.ru/certificate/02WEBPYT-0121-2), [SPbPU](https://english.spbstu.ru/)
+- [Unix/Linux Systems Programming](https://www.hse.ru/openedu/api/7c5f1a6e4e9a2356fbf5ad09699626f7/cert.pdf), [HSE University](https://www.hse.ru/en/)
+- [Digital Production and Project Works](https://open.spbstu.ru/certificate/02DIGPROD-0220-1), [SPbPU](https://english.spbstu.ru/)
+- [Project Management](https://elearning.mephi.ru/certificates/017-00104-LAA.pdf), [National Research Nuclear University MEPhI](https://eng.mephi.ru/)
+- [Computer-Aided Design (CAD)](https://de.ifmo.ru/certificates/448b18535a0b9e49.pdf), [ITMO University](https://en.itmo.ru/)
+
+---
+
+### Online Courses
+- [How to Use Chrome Developer Tools](https://www.udemy.com/certificate/UC-44bbad41-2fca-4964-bda7-8395a2407cc4/), [Udemy](http://udemy.com/)
+- [Introduction to the Internet of Things](https://stepik.org/cert/825792), [Stepik](https://stepik.org/)
+- [New CCNAx 200-125 Routing and Switching](https://www.udemy.com/certificate/UC-L9Q3XR4W/), [Udemy](http://udemy.com/)
+- [IP Addressing and Subnetting](https://www.udemy.com/certificate/UC-4EQLI9YQ/), [Udemy](http://udemy.com/)
+- [GNU/Linux Software](http://uneex.org/LecturesCMC/GnuLinuxSoftware2011), [MSU](https://www.msu.ru/en/)
+
+---
+
 ### Languages
 - **English** - Advanced
 - **Russian** - Native
