@@ -1,1 +1,1 @@
-https://inventivespark.github.io/rsschool-cv/
+https://inventivespark.github.io/rsschool-cv/cv
