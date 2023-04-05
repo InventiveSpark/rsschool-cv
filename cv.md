@@ -85,7 +85,7 @@ var lastDigit = function (str1, str2) {
 ---
 
 ### Education
-- Specialist Degree (MA-equivalent) with distinctions in Telecommunication Engineering, [USATU](https://ugatu.su/en/)
+- [Specialist Degree (MA-equivalent) with distinctions in Telecommunication Engineering](https://inventivespark.github.io/rsschool-cv/img/Telecom-Engineer-Degree.pdf), [USATU](https://ugatu.su/en/)
 - Postgraduate Degree with honors in Telecommunication Systems and Computer Networks, [USATU](https://ugatu.su/en/)
 - [Professional Retraining in Multimedia and Web Development](https://inventivespark.github.io/rsschool-cv/img/Web-Dev-Diploma.pdf), [ITMO University](https://en.itmo.ru/)
 
