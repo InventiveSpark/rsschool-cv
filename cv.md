@@ -5,6 +5,7 @@
 - **Discord:** [Arty#4267](https://discordapp.com/users/1085686366597287997)
 - **E-mail:** [ArtemiyLoschenkov@gmail.com](mailto:ArtemiyLoschenkov@gmail.com)
 - **GitHub:** [InventiveSpark](https://github.com/InventiveSpark/)
+- **Codewars:** [![InventiveSpark](https://www.codewars.com/users/rsschool_27d92b4ceae6a07f/badges/micro)](https://www.codewars.com/users/rsschool_27d92b4ceae6a07f/)
 - **YouTube:** [@dare-invent](https://www.youtube.com/@dare-invent)
 
 ---
